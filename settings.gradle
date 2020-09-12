@@ -1,0 +1,7 @@
+include ':Unity Ad'
+include ':unity-ads (2)'
+include ':unity-ads (2)'
+include ':unity ads'
+include ':unity-ads'
+include ':app'
+rootProject.name = "Detecteur de mensonge"
